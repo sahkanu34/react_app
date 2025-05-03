@@ -41,7 +41,7 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, toggleSidebar }) => {
           {/* Profile Image */}
           <div className="relative w-32 h-32 mb-4 rounded-full border-2 border-cyan-400 overflow-hidden">
             <img
-              src="images/github_profile.jpg"
+              src="https://github.com/sahkanu34/react_app/blob/main/images/github_profile.jpg?raw=true"
               alt="Suraj Sah Kanu"
               className="w-full h-full object-cover"
             />

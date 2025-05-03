@@ -122,9 +122,9 @@ const ProjectsSection = () => {
     {
       title: "Brain Tumor Detection System",
       description: "Developed a CNN model for predicting the 4 types of Brain Tumour using TensorFlow & Keras with advanced image processing techniques.",
-      image: "images/brain_tumor.jpeg",
+      image: "https://github.com/sahkanu34/react_app/blob/main/images/brain_tumor.jpeg?raw=true",
       technologies: ["Python", "CNN", "Deep Learning", "TensorFlow", "Keras", "Streamlit", "Docker", "NumPy", "Matplotlib"],
-      liveDemo: "https://github.com/sahkanu34/Brain_tumour_detection_system",
+      liveDemo: "https://braintumourdetectionsystem-34.streamlit.app/",
       github: "https://github.com/sahkanu34/Brain_tumour_detection_system",
       category: "ml",
       details: [
@@ -137,9 +137,9 @@ const ProjectsSection = () => {
     {
       title: "Cancer Prediction System",
       description: "Developed a machine learning classification model for a Breast Cancer Prediction System using advanced ML algorithms and comprehensive data analysis.",
-      image: "images/cancer1.jpeg",
+      image: "https://github.com/sahkanu34/react_app/blob/main/images/cancer1.jpeg?raw=true",
       technologies: ["Python", "Streamlit", "Random Forest", "XGBoost", "SVM", "Classification", "Pandas", "NumPy", "Seaborn"],
-      liveDemo: "https://github.com/sahkanu34/cancer_prediction_app",
+      liveDemo: "https://cancerpredictionapp-34.streamlit.app/",
       github: "https://github.com/sahkanu34/cancer_prediction_app",
       category: "ml",
       details: [
@@ -152,9 +152,9 @@ const ProjectsSection = () => {
     {
       title: "Blood Bank & Donor Management",
       description: "Developed a Django-based online web application where users can create profiles, join a community, and request blood with real-time notifications.",
-      image: "images/raktasteu.jpeg",
+      image: "https://github.com/sahkanu34/react_app/blob/main/images/raktasteu.jpeg?raw=true",
       technologies: ["Django", "Bootstrap", "MySQL", "Python", "Docker"],
-      liveDemo: "https://github.com/sahkanu34/Raktasetu",
+      // liveDemo: "https://github.com/sahkanu34/Raktasetu",
       github: "https://github.com/sahkanu34/Raktasetu",
       category: "web",
       details: [
@@ -166,9 +166,9 @@ const ProjectsSection = () => {
     {
       title: "Salary Prediction App",
       description: "Engineered a regression-based ML model for salary forecasting with dynamic visualizations and cloud deployment.",
-      image: "images/sal.png",
+      image: "https://github.com/sahkanu34/react_app/blob/main/images/sal.png?raw=true",
       technologies: ["Python", "Pandas", "NumPy", "scikit-learn", "Matplotlib", "Plotly", "Docker", "Streamlit"],
-      liveDemo: "https://github.com/sahkanu34/salary_prediction_app",
+      liveDemo: "https://salarypredictionapp34.streamlit.app/",
       github: "https://github.com/sahkanu34/salary_prediction_app",
       category: "ml",
       details: [
