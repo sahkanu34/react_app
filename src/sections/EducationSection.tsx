@@ -79,12 +79,13 @@ const EducationSection = () => {
       degree: "Bachelor of Computer Applications (BCA)",
       institution: "Tribhuvan University",
       location: "Kathmandu, Nepal",
-      period: "2019 - 2022",
-      description: "Focused on computer science fundamentals, programming, and software development.",
+      period: "2022 - Present",
+      description: "Focused on computer science fundamentals, programming, database mangement system and software development.",
       achievements: [
-        "Graduated with First Class Honours (80%)",
-        "Developed multiple web applications using Django and React",
-        "Winner of University Coding Championship 2021"
+        "Current CGPA 3.24/4.00 (82%)",
+        "Completed several Macgine Learning and Data Science projects",
+        "Winner of IT-Quiz competition at college level",
+        "Participated in various hackathons and coding competitions"
       ]
     }
   ];
